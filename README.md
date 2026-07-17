@@ -237,12 +237,11 @@ Simulation/environment project modeling debt-recovery workflows and logic.
 
 ---
 
-### 💻 Coding Profiles
+### 💻 LeetCode Profile
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ashhh19-3730A3?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ashhh19/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](#)
+<div align="center">
+<a href="https://leetcode.com/u/Ashhh19/"><img src="https://leetcard.jacoblin.cool/Ashhh19?ext=heatmap" /></a>
+</div>
 
 ---
 
