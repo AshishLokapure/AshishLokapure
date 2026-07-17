@@ -47,30 +47,21 @@ I'm a software engineer focused on building **AI-powered products** end to end �
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-14151a?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-14151a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-14151a?style=flat-square&logo=openjdk&logoColor=E76F00)
-
 **Frontend**
-![React](https://img.shields.io/badge/React-14151a?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-14151a?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-14151a?style=flat-square&logo=css3&logoColor=1572B6)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-14151a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-**Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-14151a?style=flat-square&logo=node.js&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-14151a?style=flat-square&logo=fastapi&logoColor=009688)
-![MongoDB](https://img.shields.io/badge/MongoDB-14151a?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14151a?style=flat-square&logo=postgresql&logoColor=4169E1)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css" />
 
-**Cloud, DevOps & Tooling**
-![Git](https://img.shields.io/badge/Git-14151a?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14151a?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Docker](https://img.shields.io/badge/Docker-14151a?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-14151a?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![VS Code](https://img.shields.io/badge/VS_Code-14151a?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,socketio" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=bitbucket,github,docker,kubernetes,ansible,linux,terraform,aws,gcp" />
 
 ---
 
